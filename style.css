@@ -1,0 +1,26 @@
+body {
+  font-size: 18px;
+  margin: 0 auto;
+}
+
+nav {
+  position: absolute;
+}
+
+article {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  position: absolute;
+  color: white;
+  top: 20%;
+  left: 20%;
+  font-size: 6rem;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
